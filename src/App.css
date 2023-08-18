@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.select {
+    position: relative;
+    display: block;
+    width: 15em;
+    height: 2em;
+    line-height: 3;
+    overflow: hidden;
+    border-radius: .25em;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
